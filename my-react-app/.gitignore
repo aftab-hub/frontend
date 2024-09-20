@@ -26,7 +26,7 @@ dist-ssr
 *.vite.config.js
 *.tailwind.config.js
 *.README.node_modules
-*.eslintric.cjs
-*.postcss.config.js
-*.assets
+.eslintric.cjs
+.postcss.config.js
+.assets
 
