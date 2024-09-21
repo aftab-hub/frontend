@@ -23,10 +23,12 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-*.vite.config.js
-*.tailwind.config.js
-*.README.node_modules
-.eslintric.cjs
-.postcss.config.js
-.assets
+vite.config.js
+tailwind.config.js
+README.node_modules
+eslintric.cjs
+postcss.config.js
+assets
+package.json
+package.lock.json
 
